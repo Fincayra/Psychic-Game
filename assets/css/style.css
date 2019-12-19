@@ -1,0 +1,47 @@
+body {
+    background-image: url('../images/planet.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.container {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.head1 {
+    font-family: 'Monoton', cursive;
+    font-size: 70px;
+    color: red;
+    text-shadow: 2px 5px #00d6ff;
+}
+
+.head2 {
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 22px;
+    color: #808080;
+    letter-spacing: 3px;
+    margin-top: -20px;
+}
+
+.think {
+    font-family: 'Titillium Web', sans-serif;
+    color: red;
+    font-size: 36px;
+    margin-top: 60px;
+}
+
+.mainbox {
+    margin: 0 auto;
+    width: 700px;
+    height: 450px;
+    background-color:rgba(26, 26, 26, 0.5);
+    border: 2px solid #00d6ff;
+    box-shadow: 2px 5px red;
+    border-bottom-right-radius: 10%;
+}
+
+.form-control {
+    margin: 0 auto;
+    width: 40%;
+}
