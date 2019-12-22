@@ -5,7 +5,9 @@ I've been so busy in the couple of weeks leading up to the holidays that I haven
 
 1) I can't seem to get my if/else statements to display the right message if the player's guess is correct, too high, or too low- I'm only getting the message of the last 'else' statement in the sequence. Not sure if I have one too many curly braces or if the block is inside the wrong scope, or what. Also tried to get the form to reset after the player types in their guess, but that effect doesn't seem to work at the moment, either.
 
-2) Good news is I was able to console log the computer's number and my number guess successfully, so that was nice.
+2) Still need to set up for loops to track the number of guesses the player has left, as well as to count the number of wins and losses during a round.
+
+3) Good news is I was able to console log the computer's number and my number guess successfully, so that was nice.
 
 And then I ran out of time. I'll keep working though and continue updating as I go!
 
