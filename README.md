@@ -1,4 +1,4 @@
-# Word-Guess-Game
+# Psychic-Game
 Javascript computer game project for DU coding bootcamp 12/19
 
 I've been so busy in the couple of weeks leading up to the holidays that I haven't had much time to work on this assignment, and when I have had a chance to sit down and code, Javascript fights me to the death. This game is very much incomplete and a lot of its functions don't work, but I'm not going to stop working on it until I get everything set up right! What I still need to work on as of 12/21:
