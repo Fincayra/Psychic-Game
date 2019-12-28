@@ -4,6 +4,8 @@ Javascript computer game project for DU coding bootcamp 12/19
 12/28/19
 Finally got back from my holiday vacation in order to spend more time on this project. I was actually able to get the if/else statements to function the way they should and display the correct messages based on the player's guess. I still need to write and wire the functions that will subtract from the player's total guesses until they run out and lose the game and also record the number of wins and losses, but so far I'm very happy to have gotten the first part working. This remains an ongoing WIP!
 
+And I was finally comfortable enough with the codes to change the game from a numbers game back to a letters game. Wish I'd been brave enough to attempt the recommended word game, but I'm just too unfamiliar with Javascript and still find it a little too hard to grasp for that kind of challenge.
+
 - - -
 
 I've been so busy in the couple of weeks leading up to the holidays that I haven't had much time to work on this assignment, and when I have had a chance to sit down and code, Javascript fights me to the death. This game is very much incomplete and a lot of its functions don't work, but I'm not going to stop working on it until I get everything set up right! What I still need to work on as of 12/21:
